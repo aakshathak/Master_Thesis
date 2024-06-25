@@ -20,8 +20,9 @@ Accuracy score is calculated for the unlabeled data using the true labels and pr
 
 <img width="285" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/8197a3e5-2fb8-42aa-91c1-429479a8bd5e">
 
-<img width="452" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/86efcd19-59e3-4cff-a440-78fb94288d5a">
 
+
+<img width="452" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/86efcd19-59e3-4cff-a440-78fb94288d5a">
 
 
 
