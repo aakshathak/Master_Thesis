@@ -21,6 +21,14 @@ Accuracy score is calculated for the unlabeled data using the true labels and pr
 <img width="285" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/8197a3e5-2fb8-42aa-91c1-429479a8bd5e"><br><br>
 
 
+Confusion matrix is a specific table layout that allows visualization of the performance of an algorithm. Each row of the matrix represents the instances of the true class, while each column represents the instances of the predicted class.
+
+The diagonal values ( from top-left to bottom-right) represents the number of times the model correctly predicted each digit. For example, the value at the position (0,0) is 3673, which means the digit ‘0’ was correctly predicted 3673 times out of 4132.
+
+The off-diagonal value indicates the number of times the model made incorrect predictions. For example, the value at the position (0,1) is 1, meaning that the digit ‘0’ was incorrectly predicted as ‘1’ once.
+
+The majority of the predictions fall along the diagonal, indicating that the algorithm correctly identifies most of the digits. For instance, ‘1’ was correctly predicted 4157 times, ‘2’ was correctly predicted 3536 times, and so on.
+
 
 <img width="452" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/86efcd19-59e3-4cff-a440-78fb94288d5a">
 
