@@ -18,7 +18,7 @@ While semi-supervised clustering improves performance, there is still room for e
 
 Accuracy score is calculated for the unlabeled data using the true labels and predicted labels. The acuuracy score obtained is 0.9497. This is the overall accuracy of the model, indicating that approximately 94.97% of the prediction made by the model are correct.
 
-<img width="285" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/8197a3e5-2fb8-42aa-91c1-429479a8bd5e">
+<img width="285" alt="image" src="https://github.com/aakshathak/Master_Thesis/assets/113524108/8197a3e5-2fb8-42aa-91c1-429479a8bd5e"> /n
 
 
 
