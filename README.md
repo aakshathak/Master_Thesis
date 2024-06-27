@@ -6,7 +6,7 @@ In this study, I performed semi-supervised clustering on MNIST dataset. Semi-sup
 
 ## Data
 
-MNIST dataset contains images of handwritten digits and images are 28x28 pixels which makes 784 when we have the images as vector. In this study, I am making using of only 10% of labeled data out of 60000 data. 
+MNIST dataset contains images of handwritten digits and images are 28x28 pixels which makes 784 when we have the images as vector. In this study, I am making using of only 10% of labeled data out of 70000 data. 
 
 ## Method
 
